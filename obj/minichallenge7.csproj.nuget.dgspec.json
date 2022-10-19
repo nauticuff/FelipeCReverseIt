@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Documents\\CodingCombing22_23sp\\MiniChallenges\\cfelipeminichallenge7\\minichallenge7.csproj": {}
+    "/Users/arelymartinez/Desktop/GitRepository/felipecReverseIt/minichallenge7.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Documents\\CodingCombing22_23sp\\MiniChallenges\\cfelipeminichallenge7\\minichallenge7.csproj": {
+    "/Users/arelymartinez/Desktop/GitRepository/felipecReverseIt/minichallenge7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\CodingCombing22_23sp\\MiniChallenges\\cfelipeminichallenge7\\minichallenge7.csproj",
+        "projectUniqueName": "/Users/arelymartinez/Desktop/GitRepository/felipecReverseIt/minichallenge7.csproj",
         "projectName": "minichallenge7",
-        "projectPath": "C:\\Users\\User\\Documents\\CodingCombing22_23sp\\MiniChallenges\\cfelipeminichallenge7\\minichallenge7.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\CodingCombing22_23sp\\MiniChallenges\\cfelipeminichallenge7\\obj\\",
+        "projectPath": "/Users/arelymartinez/Desktop/GitRepository/felipecReverseIt/minichallenge7.csproj",
+        "packagesPath": "/Users/arelymartinez/.nuget/packages/",
+        "outputPath": "/Users/arelymartinez/Desktop/GitRepository/felipecReverseIt/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/arelymartinez/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
         }
       }
     }
